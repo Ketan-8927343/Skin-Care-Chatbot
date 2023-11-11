@@ -1,0 +1,7 @@
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.GameFrm.resources
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.Guessing_Word.Properties.Resources.resources
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.csproj.GenerateResource.cache
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.AssemblyInfoInputs.cache
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.AssemblyInfo.cs
+C:\Users\ketan\source\repos\Guessing_Word\obj\Debug\net6.0\Guessing_Word.csproj.CoreCompileInputs.cache

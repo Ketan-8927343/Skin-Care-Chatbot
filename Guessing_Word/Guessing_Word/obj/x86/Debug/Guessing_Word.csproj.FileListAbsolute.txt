@@ -1,0 +1,7 @@
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\bin\Debug\Guessing_Word.exe
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\bin\Debug\Guessing_Word.pdb
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\obj\x86\Debug\Guessing_Word.GameFrm.resources
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\obj\x86\Debug\Guessing_Word.Properties.Resources.resources
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\obj\x86\Debug\Guessing_Word.csproj.GenerateResource.Cache
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\obj\x86\Debug\Guessing_Word.exe
+C:\Users\Abbas\Desktop\Guessing_Word\Guessing_Word\obj\x86\Debug\Guessing_Word.pdb

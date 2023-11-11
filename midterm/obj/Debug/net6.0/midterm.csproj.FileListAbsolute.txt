@@ -1,0 +1,15 @@
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.csproj.AssemblyReference.cache
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.AssemblyInfoInputs.cache
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.AssemblyInfo.cs
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\ketan\source\repos\midterm\bin\Debug\net6.0\midterm.exe
+C:\Users\ketan\source\repos\midterm\bin\Debug\net6.0\midterm.deps.json
+C:\Users\ketan\source\repos\midterm\bin\Debug\net6.0\midterm.runtimeconfig.json
+C:\Users\ketan\source\repos\midterm\bin\Debug\net6.0\midterm.dll
+C:\Users\ketan\source\repos\midterm\bin\Debug\net6.0\midterm.pdb
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.dll
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\refint\midterm.dll
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.pdb
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\midterm.genruntimeconfig.cache
+C:\Users\ketan\source\repos\midterm\obj\Debug\net6.0\ref\midterm.dll

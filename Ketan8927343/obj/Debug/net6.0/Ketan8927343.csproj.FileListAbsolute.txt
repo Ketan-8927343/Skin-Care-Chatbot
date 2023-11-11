@@ -1,0 +1,15 @@
+C:\Users\ketan\source\repos\Ketan8927343\bin\Debug\net6.0\Ketan8927343.exe
+C:\Users\ketan\source\repos\Ketan8927343\bin\Debug\net6.0\Ketan8927343.deps.json
+C:\Users\ketan\source\repos\Ketan8927343\bin\Debug\net6.0\Ketan8927343.runtimeconfig.json
+C:\Users\ketan\source\repos\Ketan8927343\bin\Debug\net6.0\Ketan8927343.dll
+C:\Users\ketan\source\repos\Ketan8927343\bin\Debug\net6.0\Ketan8927343.pdb
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.csproj.AssemblyReference.cache
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.AssemblyInfoInputs.cache
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.AssemblyInfo.cs
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.csproj.CoreCompileInputs.cache
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.dll
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\refint\Ketan8927343.dll
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.pdb
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\Ketan8927343.genruntimeconfig.cache
+C:\Users\ketan\source\repos\Ketan8927343\obj\Debug\net6.0\ref\Ketan8927343.dll
